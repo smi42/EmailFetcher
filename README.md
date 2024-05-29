@@ -23,4 +23,4 @@ This project uses the JavaMail API for handling emails. You need to have the jak
 
 Note
 This is a basic email fetching application and does not include any error handling or user interface. It's intended as a starting point for building more complex email handling applications.
-using Jakarta.activation-2.0.1.jar and jakarta.mail-2.0.1.jar
+using Jakarta.activation-2.0.1.jar and jakarta.mail-2.0.1.jar and JavaSE-17
