@@ -6,8 +6,8 @@ public class Main {
     public static void main(String[] args) {
         String host = "pop3.mailtrap.io";
         String mailStoreType = "pop3";
-        String username = "7dbe947e8d0234";
-        String password = "7eb52cf19fdf12";
+        String username = "Username";
+        String password = "password";
 
         EmailFetcher emailFetcher = new EmailFetcher(host, mailStoreType, username, password);
         Vector<Mail> emails = emailFetcher.fetchEmails();
