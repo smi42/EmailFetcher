@@ -4,7 +4,7 @@ import java.util.Vector;
 
 public class Main {
     public static void main(String[] args) {
-        String host = "pop3.mailtrap.io";
+        String host = "pop3.mailserver";
         String mailStoreType = "pop3";
         String username = "Username";
         String password = "password";
